@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qualcrypt.com/sitemap.xml
